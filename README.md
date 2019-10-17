@@ -23,4 +23,7 @@
 **_Group Members_**  
 *Nikolai Christiansen*  
 *Nikolaj Jensen*
+***
+**_Known Issues_**
+* Discs will collide through other discs visually.
 
