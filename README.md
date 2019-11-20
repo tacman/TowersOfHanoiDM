@@ -20,10 +20,6 @@
 * iTween (Free Asset from the store for quick animations)
 * Visual Studio Community 2017
 ***
-**_Group Members_**  
-*Nikolai Christiansen*  
-*Nikolaj Jensen*
-***
 **_Known Issues_**
 * Discs will collide through other discs visually.
 
